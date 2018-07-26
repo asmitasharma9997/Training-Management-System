@@ -1,0 +1,18 @@
+h1{
+	text-align: center;
+	height: 70px;
+	border-bottom: 6px solid red;
+    background-color: lightgrey;
+    padding-top: 35px;
+}
+
+.avatar{
+	float: right;
+}
+h3{
+	text-align: center;
+}
+.button {background-color: #e7e7e7; color: black;
+padding: 14px 40px;
+width: 250px;
+}
